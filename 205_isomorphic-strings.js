@@ -51,7 +51,6 @@ var isIsomorphic = function (s, t) {
       return false;
     }
   }
-  console.log({ mapLiteralS, mapLiteralT });
 
   return true;
 };
